@@ -1,0 +1,6 @@
+Tomato: healthy
+Tomato: Early blight
+Tomato: Late blight
+Tomato: Leaf Mold
+Potato: Early blight
+Potato: Late blight

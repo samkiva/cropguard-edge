@@ -1,0 +1,29 @@
+# Dataset files (too large for git)
+data/train/
+data/val/
+data/test/
+plantvillage dataset/
+
+# Model files (will be too large)
+models/*.h5
+models/*.tflite
+*.h5
+*.tflite
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+venv/
+*.egg-info/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
