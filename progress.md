@@ -37,3 +37,21 @@ git log --oneline --since="today"
 **Status:** Ready to execute Day 2
 **Next:** Data cleaning and organization
 
+
+## Day 2 - 2025-12-17
+**Status:** 🚧 In Progress
+
+### Morning:
+- [x] Dataset located: `plantvillage dataset/color/`
+- [x] Found all 6 priority classes
+- [ ] Running data cleaning script (in progress)
+
+### Classes Processing:
+1. Tomato___healthy
+2. Tomato___Early_blight  
+3. Tomato___Late_blight
+4. Tomato___Leaf_Mold
+5. Potato___Early_blight
+6. Potato___Late_blight
+
+**Next:** Verify statistics and commit organized data
