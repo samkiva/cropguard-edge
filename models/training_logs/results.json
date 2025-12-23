@@ -1,0 +1,22 @@
+{
+  "final_metrics": {
+    "train_accuracy": 0.6358929872512817,
+    "val_accuracy": 0.5550581812858582,
+    "test_accuracy": 0.5975881814956665,
+    "test_loss": 1.163954257965088,
+    "test_top2_accuracy": 0.7882983684539795
+  },
+  "config": {
+    "epochs": 50,
+    "batch_size": 32,
+    "learning_rate": 0.001
+  },
+  "classes": [
+    "Potato___Early_blight",
+    "Potato___Late_blight",
+    "Tomato___Early_blight",
+    "Tomato___Late_blight",
+    "Tomato___Leaf_Mold",
+    "Tomato___healthy"
+  ]
+}
