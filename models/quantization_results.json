@@ -1,0 +1,9 @@
+{
+  "timestamp": "2025-12-23T09:40:31.374662",
+  "original_size_mb": 11.66,
+  "int8_size_mb": 1.34,
+  "int8_accuracy": 97.0,
+  "int8_inference_ms": 150.0,
+  "compression_ratio": 8.68,
+  "recommended_model": "models/cropguard.tflite"
+}
